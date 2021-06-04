@@ -1,6 +1,6 @@
 #include<iostream>
+#include<math.h>
 using namespace std;
-const double PI = acos(-1);
 int main(){
 	double x1,y1,r1,x2,y2,r2;
 	cin>>x1>>y1>>r1>>x2>>y2>>r2;
